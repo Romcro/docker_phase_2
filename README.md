@@ -1,6 +1,3 @@
-Merci pour la capture d'écran. Je vois qu'il y a un fichier `compose.yaml` dans le projet, ce qui indique probablement que le projet utilise Docker Compose pour orchestrer plusieurs services ou conteneurs.
-
-Basé sur ce que je peux observer, voici un exemple de structure pour un fichier `README.md` adapté pour un projet Docker utilisant Docker Compose.
 
 ---
 
@@ -113,4 +110,3 @@ Cette commande arrête et supprime également les conteneurs, réseaux et volume
 
 ---
 
-Ce guide couvre les aspects essentiels pour configurer, exécuter, et arrêter les services Docker dans le projet. N'hésitez pas à adapter le contenu en fonction des spécificités de votre projet.
